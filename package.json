@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
+    "name": "L'auberge",
+    "preductname": "Launcher de l'auberge",
     "version": "2.4.2",
-    "description": "Conflictura modded server launcher",
+    "description": "Launcher officiel !",
     "main": "src/app.js",
     "author": "Luuxis/Riptiaz",
-    "settings": "https://launcher.conflictura.eu",
+    "settings": "https://auberge.websr.fr/",
     "engines": {
         "node": "16.x.x"
     },
